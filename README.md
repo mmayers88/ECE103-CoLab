@@ -7,4 +7,4 @@
     - Week 2, Tuesday
 
 
-$\tiny [notes](https://ashki23.github.io/markdown-latex.html)
+$\tiny [notes](https://ashki23.github.io/markdown-latex.html)$
