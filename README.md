@@ -5,3 +5,6 @@
     - This is just a test
 1. DataTypes_andScope.ipynb
     - Week 2, Tuesday
+
+
+$\tiny [notes](https://ashki23.github.io/markdown-latex.html)
